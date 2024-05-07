@@ -19,5 +19,5 @@ Based on the analysis of the data, the following insights were obtained:
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT and Apache2.0 License.
 
