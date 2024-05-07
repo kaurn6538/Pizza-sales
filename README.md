@@ -1,5 +1,7 @@
 ## Pizza Shop Data Analysis
 This repository contains an analysis of data from a pizza shop. The dataset includes information about pizza orders, such as order dates, pizza categories, sizes, ingredients, and total prices.
+Overview
+The analysis involves exploring various aspects of the pizza orders dataset to gain insights into customer preferences, order patterns, and other relevant information.
 
 ## Insights
 Based on the analysis of the data, the following insights were obtained:
