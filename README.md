@@ -3,7 +3,7 @@ This repository contains an analysis of data from a pizza shop. The dataset incl
 Overview
 The analysis involves exploring various aspects of the pizza orders dataset to gain insights into customer preferences, order patterns, and other relevant information.
 
-Tableau Dashboard Link https://public.tableau.com/app/profile/navdeep.kaur6193/viz/PizzaSalesReport_17157061267550/Pizza_sales_year_2015
+Tableau Dashboard [Link](https://public.tableau.com/app/profile/navdeep.kaur6193/viz/PizzaSalesReport_17157061267550/Pizza_sales_year_2015)
 ## Insights
 Based on the analysis of the data, the following insights were obtained:
 
